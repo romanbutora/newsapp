@@ -20,7 +20,7 @@ import sky_technology from './localstorage/sky_technology.json';
 import sky_business from './localstorage/sky_business.json';
 import sky_world from './localstorage/sky_world.json';
 
-//localstorage api - ak nefunguje backend tak namockujem json odpoved z localstorage
+//localstorage api - ak nefunguje backend tak namockujem json odpoved z localstorage folderu
 
 function App() {
 
